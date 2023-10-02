@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/ckeditor",
+    "name": "snowsoft/oackeditor",
     "description": "Integrate CKEDITOR into open-admin",
     "type": "library",
     "keywords": ["open-admin", "wysiwyg", "extension", "editor", "CKEditor"],
-    "homepage": "https://github.com/open-admin-ext/ckeditor",
+    "homepage": "https://github.com/snowsoft/oackeditor",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": ">=7.0",
-        "open-admin-org/open-admin": "~1.0",
+        "snowsoft/open-admin": "~v0.01",
         "ckeditor/ckeditor": "4.*"
     },
     "require-dev": {
